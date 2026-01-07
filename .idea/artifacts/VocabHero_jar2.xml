@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VocabHero:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/VocabHero_jar2</output-path>
+    <root id="archive" name="VocabHero.jar">
+      <element id="module-output" name="VocabHero" />
+    </root>
+  </artifact>
+</component>
