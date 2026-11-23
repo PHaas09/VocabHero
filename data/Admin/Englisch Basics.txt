@@ -1,0 +1,9 @@
+#TYPE=QUIZ;L1=Deutsch;L2=Englisch
+Hund	dog
+Apfel	apple
+Schmetterling	butterfly
+Fenster	window
+Zeitung	newspaper
+Schlüssel	key
+Wolke	cloud
+Bahnhof	train station
